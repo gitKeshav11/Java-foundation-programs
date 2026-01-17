@@ -102,14 +102,17 @@ All programs are written in **simple Java syntax** with a focus on clarity and l
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author & Contributors
+<a href="https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/Sanatan_Food-Full_Stack_Project" />
+</a>
 
-Keshav Upadhyay  
-Java Backend Developer  
-
-📧 Email: keshavupadhyayje@gmail.com  
-🔗 GitHub: https://github.com/gitKeshav11  
-
+## 📞 Contact
+### **Keshav Upadhyay**  
+**Role:** Backend Developer (Java & Spring Boot)  
+📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
+🔗 LinkedIn: [Keshav Upadhyay](https://www.linkedin.com/in/keshavupadhyayje/)  
+🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)  
 ---
 
 ## 📜 License
