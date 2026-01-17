@@ -1,75 +1,116 @@
-# 🎓 Student Management System (Java)
+# ☕ Java Basic & Fundamental Programs
 
-A menu-driven **Student Management System** developed using **Core Java and Collections Framework**.
-This project is created as part of the **30 Days Java Internship Program at KTR Softech**.
+This repository contains a comprehensive collection of **Java Basic and Fundamental Programs**.
+It is specially designed for **beginners** who want to understand Java from scratch and build strong programming logic.
 
----
-
-## 🏢 Internship Details
-
-- **Organization:** KTR Softech  
-- **Internship Program:** 60 Days Java Internship  
-- **Technology:** Core Java  
-- **Project Type:** Collections Based Console Application  
-  
+All programs are written in **simple Java syntax** with a focus on clarity and learning.
 
 ---
 
-## 📘 Project Overview
+## 📌 Concepts Covered
 
-The Student Management System helps manage student records efficiently.
-It allows users to perform basic operations like **add, view, update, delete, search, and sort students** using Java Collections.
+### 🔹 Basics
+- First Java Program
+- Simple Assignment
+- Variables & Data Types
+- Increment & Decrement Operators
 
----
+### 🔹 Operators
+- Arithmetic Operators (Addition, Subtraction, Multiplication, Division)
+- Relational Operators
+- Logical Operators
+- Ternary Operator
 
-## ✨ Features
+### 🔹 Conditional Statements
+- if Statement
+- if-else Statement
+- else-if Ladder
+- Nested if-else
+- switch Statement
 
-- Add new student  
-- Display all students  
-- Search student by ID  
-- Update student marks  
-- Remove student by ID  
-- Sort students by marks  
-- Menu-driven console interface  
+### 🔹 Looping Statements
+- for Loop
+- while Loop
+- do-while Loop
+- break Statement
+- continue Statement
 
----
+### 🔹 Methods & Functions
+- Method Declaration & Calling
 
-## 🛠️ Technologies & Concepts Used
+### 🔹 Number & Logic Programs
+- Prime Number
+- Fibonacci Series
 
-- Java  
-- OOPs (Encapsulation)  
-- Collections Framework (`ArrayList`)  
-- Comparator for sorting  
-- equals() & hashCode()  
-- Exception Handling  
-- Scanner class  
+### 🔹 Pattern Programs
+- Half Pyramid Pattern
 
----
-
-## 📂 Project Structure
-
-```
-Student-Management-System
-│
-├── Student.java
-├── StudentService.java
-├── Main.java
-└── README.md
-```
-
----
-
-## 📦 Submission Note
-
-This project is submitted in **.zip format** with proper documentation
-as per **KTR Softech 30 Days Java Internship guidelines**.
+### 🔹 Basic Applications
+- Student Management System (Basic Console Program)
+- Java Frame (Basic GUI Program)
 
 ---
 
-## 👨‍💻 Author
+## 📂 Program Files Included
 
-**Keshav Upadhyay**  
+- First.java
+- Second.java
+- Simple_Assienment.java
+- Addito.java
+- Subtraction.java
+- Multiplication.java
+- Division.java
+- Relational_Operator.java
+- Logical_Operator.java
+- Ternary_Operator.java
+- incre_Decre.java
+- if_statement.java
+- if_else_Statement.java
+- Else_If_Statement.java
+- Nested_If_Else.java
+- Switch_Statement.java
+- For_loop_Statement.java
+- While_loop.java
+- do_while_loop.java
+- Break.java
+- Continui.java
+- Method.java
+- Prime_Number.java
+- Fibbonacci_Series.java
+- Half_Puramid.java
+- StudentManagementSystem.java
+- JavaFrame.java
+
+---
+
+## ▶️ How to Run the Programs
+
+1. Install Java JDK
+2. Clone the repository
+3. Compile:
+   javac FileName.java
+4. Run:
+   java FileName
+
+---
+
+## 🎯 Who Should Use This Repository?
+- Beginners learning Java
+- College students
+- Logic building practice
+- Java interview preparation
+
+---
+
+## 🧑‍💻 Author
+
+Keshav Upadhyay  
 Java Backend Developer  
 
 📧 Email: keshavupadhyayje@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/keshav-upadhyay
+🔗 GitHub: https://github.com/gitKeshav11  
+
+---
+
+## 📜 License
+For learning and educational purposes only.
