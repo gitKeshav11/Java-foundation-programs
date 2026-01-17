@@ -84,7 +84,6 @@ All programs are written in **simple Java syntax** with a focus on clarity and l
 ---
 
 ## ▶️ How to Run the Programs
-
 1. Install Java JDK
 2. Clone the repository
 3. Compile:
