@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f66b754-cb1f-46de-97aa-5ec18734ca74" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Oops/OOps_Concept/File_Handling.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vfBctDZR7GlKVF9x21Rh6X15ed" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstract.executor": "Run",
+    "Application.Addition.executor": "Run",
+    "Application.Addito.executor": "Run",
+    "Application.Ankit.executor": "Run",
+    "Application.Array_Class.executor": "Run",
+    "Application.Compile_Polimorphism.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.Consuctructor.executor": "Run",
+    "Application.Copy_Cons.executor": "Run",
+    "Application.Customer.executor": "Run",
+    "Application.Default_Cons.executor": "Run",
+    "Application.Default_Const.executor": "Run",
+    "Application.Else_If_Statement.executor": "Run",
+    "Application.Encapsulation_Bank.executor": "Run",
+    "Application.Exception.executor": "Run",
+    "Application.Fibbonacci_Series.executor": "Run",
+    "Application.FileReader.executor": "Run",
+    "Application.File_Handling.executor": "Run",
+    "Application.File_Writer.executor": "Run",
+    "Application.G.executor": "Run",
+    "Application.Half_Puramid.executor": "Run",
+    "Application.Hell.executor": "Run",
+    "Application.Hierachical.executor": "Run",
+    "Application.Hierarchical.executor": "Run",
+    "Application.JavaFrame.executor": "Run",
+    "Application.K.executor": "Run",
+    "Application.M.executor": "Run",
+    "Application.Method_Overriding.executor": "Run",
+    "Application.Multi_level_Inheritance.executor": "Run",
+    "Application.Multiple.executor": "Run",
+    "Application.Package.executor": "Run",
+    "Application.Parametrized_Cons.executor": "Run",
+    "Application.Prime_Number.executor": "Run",
+    "Application.Super.executor": "Run",
+    "Application.Switch_Statement.executor": "Run",
+    "Application.This_Keyword.executor": "Run",
+    "Application.V.executor": "Run",
+    "Application.Z.executor": "Run",
+    "Application.javacollection.executor": "Run",
+    "Application.l.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kesha/OneDrive/Desktop/Java Programing Language 2025/@Complete_Java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f66b754-cb1f-46de-97aa-5ec18734ca74" name="Changes" comment="" />
+      <created>1744526330074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744526330074</updated>
+    </task>
+    <servers />
+  </component>
+</project>
