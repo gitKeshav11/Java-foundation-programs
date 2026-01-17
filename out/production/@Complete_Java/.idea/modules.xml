@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/@Complete_Java.iml" filepath="$PROJECT_DIR$/@Complete_Java.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/Java Programing Language 2025.iml" filepath="$PROJECT_DIR$/Java Programing Language 2025.iml" />
->>>>>>> b969cad5b9847613395e63d44db3d39d66022609
     </modules>
   </component>
 </project>
